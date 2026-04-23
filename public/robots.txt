@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://novaris-studio.com/sitemap.xml
